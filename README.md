@@ -1,4 +1,4 @@
-# Random_number_generator_based_on_Brownian_motion
+# Random number generator based on Brownian motion
 
 • Physical simulation of Brownian motion captured on video.
 
